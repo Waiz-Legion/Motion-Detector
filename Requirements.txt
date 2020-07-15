@@ -1,0 +1,7 @@
+install OpenCV
+
+Pycharm:
+Files > Settings > Project Interpreter > install opencv-python 4.3.0.36
+
+Windows:
+pip install opencv-python
